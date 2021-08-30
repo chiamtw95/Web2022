@@ -19,8 +19,4 @@ left a pre-tax tip of 16%.
     $total = $sum + $tip + $tax;
     
     echo $total;
-
-
-
-
 ?>
